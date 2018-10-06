@@ -16,6 +16,7 @@ Paste the images you want the labels of, in the folder named 'single_prediction'
 How to use: 
 
 To build the model and save it: python3 build_model2.py
+
 To load the saved model and test it: python3 test.py
 
 Dataset:
