@@ -1,6 +1,6 @@
 # BTechProject
 
-#Object Detection using vgg16
+# Object Detection using vgg16
 
 - This program directly classifies images into one of the 1000 categories on which vgg16 model is pretrained
 
@@ -8,7 +8,7 @@ How to use: python3 test_images.py
 
 Paste the images you want the labels of, in the folder named 'single_prediction'
 
-#Object Detection using Transfer Learning
+# Object Detection using Transfer Learning
 
 - This program allows user to use her own dataset to train the model and then classify test-images into one of the categories for which the model is trained
 - It contains fine tuning of VGG 16 Image Classifier with keras by modification of some layers of VGG16 model
